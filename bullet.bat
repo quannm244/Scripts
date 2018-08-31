@@ -1,0 +1,1 @@
+@py.exe D:\Stuff\games\Scripts\bulletPoint.py
